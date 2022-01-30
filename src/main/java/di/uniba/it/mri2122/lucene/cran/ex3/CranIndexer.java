@@ -23,6 +23,7 @@ import org.apache.lucene.store.FSDirectory;
  *
  * @author pierpaolo
  */
+
 public class CranIndexer {
 
     /**

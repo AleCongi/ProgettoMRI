@@ -1,5 +1,5 @@
 # ProgettoMRI
-##Congedo Alessandro 677315, Villano Giorgia 676577
+## Congedo Alessandro 677315, Villano Giorgia 676577
 
 Per l'esercizio numero 3 del laboratorio numero 1 sulla collezione Cranfield, si è partiti
 dalla repository del professor Pierpaolo Basile.

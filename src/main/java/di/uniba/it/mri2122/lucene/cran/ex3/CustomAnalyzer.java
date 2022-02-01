@@ -25,9 +25,6 @@ public class CustomAnalyzer extends StopwordAnalyzerBase
  {
         @Override
         protected TokenStreamComponents createComponents(String fieldName) {
-            Path wordnet = Paths.get("D:\\Repository\\MRI_2021_22\\src\\main\\java\\di\\uniba\\it\\mri2122\\lucene\\cran\\ex3\\wn_s.pl");
-
-
             Tokenizer src = new LetterTokenizer();
 
             TokenStream result = new LowerCaseFilter(src);
